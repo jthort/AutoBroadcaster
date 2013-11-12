@@ -1,0 +1,14 @@
+name: AutoBroadcast
+version: 1.0
+main: me.Ian.AutoBroadcast.AutoBroadcast
+description: 
+    AutoMessager starts.
+commands:
+    AmStart:
+        description: Start the AutoMessager
+        usage: |
+           /AmStart
+    AmStop:
+        description: Stops the AutoMessager
+        usage: |
+           /AmStop
